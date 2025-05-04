@@ -1,8 +1,8 @@
 # ​🦕​ bem vindo(a)!
 
-👩🏻‍💻 estudante de ciência da computação  <br>
+👩🏻‍💻 sou estudante do segundo ano de ciência da computação na uenp  <br>
 ​🎰 apaixonada por tecnologia e a forma como ela pode ajudar as pessoas <br>
-📚​ atualmente estudando **c**, **python** e **desenvolvimento web no geral**
+📚​ atualmente me aprimorando em **c**, **python** e **desenvolvimento web no geral**
 
 ## ⚙️​ github stats
 ![gege's github stats](https://github-readme-stats.vercel.app/api?username=whoisgege&show_icons=true&theme=dracula)
@@ -20,5 +20,5 @@
 _"um ser humano deve transformar <br>
 informação em inteligência ou conhecimento. <br>
 tendemos a esquecer que nenhum computador <br>
-jamais fará uma nova pergunta."_ <br>
-_-grace hopper._ 🐈‍⬛
+jamais fará uma nova pergunta." <br>
+-grace hopper._ 🐈‍⬛
