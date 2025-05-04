@@ -4,7 +4,9 @@
 ​🎰 apaixonada por tecnologia e a forma como ela pode ajudar as pessoas <br>
 📚​ atualmente me aprimorando em **c**, **python** e **desenvolvimento web no geral**
 
-
+## ⚙️​ github stats
+![gege's github stats](https://github-readme-stats.vercel.app/api?username=whoisgege&show_icons=true&theme=dracula)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisgege&layout=compact&theme=dracula)
 
 ## 💬 onde me encontrar
 [![lattes](https://img.shields.io/badge/Lattes-0074D9?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/7640491751338541)
