@@ -17,8 +17,8 @@
 ---
 
 
-🐈‍⬛ _"um ser humano deve transformar <br>
+_"um ser humano deve transformar <br>
 informação em inteligência ou conhecimento. <br>
 tendemos a esquecer que nenhum computador <br>
 jamais fará uma nova pergunta."_ <br>
-_-grace hopper._
+_-grace hopper._ 🐈‍⬛
